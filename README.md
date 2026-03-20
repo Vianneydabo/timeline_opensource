@@ -1,5 +1,5 @@
 # timeline_opensource
-Timeline open source est un jeu de cartes basé sur le jeu "timeline", adapté à l'hisoire du travail informatique collaboratif.
+Timeline open source est un jeu de cartes basé sur le jeu "timeline", adapté à l'hisoire du travail informatique collaboratif. Pour jouer, ouvrir le fichier "timeline_opensource.html".
 
 Les règles du jeu sont simples : 
 - Mélanger toutes les cartes et les placer au milieu de la table, la face avec la date vers le bas (cachée)

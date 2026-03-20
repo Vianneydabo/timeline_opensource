@@ -1,0 +1,8 @@
+We based our work on an existing project of the emergence cards game. We created the cards design based on the cards that already existed but there were a couple of issues:
+- For the java card : the logo were wrong
+- There were no dates on the cards
+- There were also duplicated cards
+- There were linguistic incoherence between the language used in the excel file of the cards info and the latex file of the card's design
+one was in english the other one is in french
+The file's naming is not always coherent
+Error on the card "OpenJDK" : OpenDJDK instead of "OpenJDK"

@@ -22,4 +22,10 @@ Les règles du jeu sont simples :
 - `cartes jeu emergence.pdf` : le PDF des cartes créées sur Canva
 - `card_images/` : les images extraites des cartes
 - `cards-new.csv` : les données des cartes au format CSV
-```
+
+## Un projet open source sur l'open source
+
+Ce projet est lui-même un exemple concret de travail collaboratif 
+open source. Nous utilisons GitHub pour développer ensemble un jeu qui retrace justement cette histoire.
+
+Chaque membre de l'équipe peut proposer des améliorations, signaler des bugs, ou ajouter de nouvelles cartes grâce aux mécanismes de collaboration de GitHub. Le jeu est ainsi en constante évolution, exactement comme les grands projets open source qu'il célèbre.

@@ -7,7 +7,7 @@ Les règles du jeu sont simples :
 - Un joueur gagne un point lorsqu'il positionne correctement la carte sur la timeline. S'il s'est trompé, il ne gagne pas de point mais il replace la carte correctement sur la timeline, afin d'avoir une frise cohérente qui se construit petit à petit.
 - À la fin, on obtient une frise chronologique de l'histoire de l'opensource, avec les dates et les funfacts correspondant à chaque événement.
 
-- ## Comment jouer
+## Comment jouer
 
 1. Ouvrez le fichier `timeline_opensource.html` dans votre navigateur
 2. Choisissez le nombre de joueurs (2 à 4)
